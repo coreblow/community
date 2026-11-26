@@ -1,3 +1,5 @@
+> **Archive Notice:** This repository has been consolidated into [coreblow/docs](https://github.com/coreblow/docs) (`docs/community/`) and archived.
+
 # CoreBlow Community
 
 Policies and documentation for the CoreBlow community.
